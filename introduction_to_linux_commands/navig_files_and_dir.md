@@ -54,4 +54,15 @@ Option	Description
 
 ## Exercise 3 - Managing Files and Directories
 # 3.1. Search for and locate files
+>> find
 
+# The following command finds all .txt files in the /etc directory and all of its subdirectories
+>> find /etc -name '*.txt'
+
+# Search for .conf files using the below command
+>> find /etc -name '*.conf'
+
+# 3.2. Remove files
+>> rm -i myfile.txt
+
+# 3.3. Move and rename a file
