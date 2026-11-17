@@ -46,3 +46,10 @@ u, g, o	    User categories: user, group, and all others
 
 ## Exercise 2 - Understanding directory access permissions
 # 2.1 View default directory access permissions
+>> cd /home/project
+>> mkdir test
+
+## Check the default permissions that the system sets for your new test directory:
+>> ls -l
+
+## 
