@@ -98,8 +98,8 @@ u, g, o	    User categories: user, group, and all others
 >> mkdir test_again
 
 # throws the error:
-
 > mkdir: cannot create directory ‘test_again’: Permission denied
+
 
 
 
